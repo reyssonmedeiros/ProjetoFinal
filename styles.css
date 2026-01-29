@@ -67,11 +67,8 @@ body {
 
 /* Header e Navegação */
 header {
-  background: linear-gradient(135deg, var(--azul-brasil) 0%, var(--azul-escuro) 100%);
+  background-image: url(Images/backgroundImage.jpg);
   box-shadow: var(--sombra-media);
-  position: sticky;
-  top: 0;
-  z-index: 1000;
   border-bottom: 4px solid var(--amarelo-brasil);
 }
 
